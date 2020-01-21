@@ -1,0 +1,73 @@
+﻿Hydro's NVIDIA Control Panel Tweaking Guide
+
+Hey guys! its Hydro again
+So I decided to do another guide, this time it's more for beginners, but advanced users can use it too and I found it a good idea.
+So there are many things in NVIDIA control panel that are harmful to your computer's performance if you do not change them, if you want to get the most from your computer, i recommend changing them.
+
+Recommended NVIDIA Driver: 419.35, one of the best driver for me and for others, low latency and good performance 
+
+Let’s start with the Adjust image settings with preview:
+
+In the button, select “Use my preference emphasizing”, then move the selector from Quality to ----> Performance, then select Use the advanced 3D image settings, and you done with this page!  
+
+Now, select Global Settings and follow the guide:
+
+Ambient Occlusion - Off
+
+Anisotropic filtering - Off
+
+Antialiasing - FXAA - Off - 
+
+Antialiasing Gamma correction - Off
+
+Antialiasing Mode - Off
+
+Antialiasing Setting - None
+
+Antialiasing - Transparency - Off
+
+CUDA - GPUs - All
+
+DSR - Factors - Off
+
+DSR - Smoothness - Off
+
+Maximum pre-rendered frames - 1
+
+Multi-Frame Sampled AA (MFAA) - Off
+
+OpenGL rendering GPU - Auto-select
+
+Power management mode - Prefer maximum performance (Helps a lot in performance and latency)
+
+Shader Cache - On
+
+Texture filtering - Anisotropic sample optimization - On
+
+Texture filtering - Negative LOD bias - Allow
+
+Texture filtering - Quality - High performance ( Helps a lot in performance and latency too, it is very important!)
+
+Texture filtering - Trilinear optimization - On
+
+Threaded optimization - On
+
+Triple buffering - off
+
+Vertical sync - Off
+
+Virtual Reality pre-rendered frames - 1
+
+Please read: might be some other settings for you, contact me on discord and i will help you: Hydro#0007 
+
+And finally, we are done with this page
+
+Now go to Adjust desktop size and position
+
+it looks like this, and copy the settings from the image.
+  
+
+if you got 2 screens like me, then copy the settings for the second screen too.
+The other pages in the NVIDIA control panel are your preference.
+
+So this was a small guide about NVIDIA control panel, thank you so much for your support about my other guides, i running out of ideas on guides...

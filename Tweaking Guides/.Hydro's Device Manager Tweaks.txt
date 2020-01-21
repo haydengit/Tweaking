@@ -1,0 +1,87 @@
+﻿Hydro’s Device Manager Tweaks (Updated) ©️
+
+
+Big thanks for all Revision team and desileR.
+Today, there are many things that Windows likes to add to our operating system, and even in Device Manager, most of them only cause harm, and some are important and touching them can ruin something, so I made a neat guide on Device Manager Tweaks, I incorporated the two because I intend to make a long guide And not just one line, in addition I will add a description to every Device that we should disable in our system.
+I also recommended this guide to ReviOS users.
+
+So let’s start with the Device Manager tweaks:
+
+Open Device manager and click “view” on the top left.
+then select “Devices by connection”
+
+  
+
+
+
+
+
+
+
+it should looks like this:
+  
+
+Now, let’s start by disable PCI-to-PCI bridges that we don’t use them
+  
+disable PCI-to-PCI that has nothing inside.
+for me, i can disable those:
+  
+For some motherboards, PCI-to-PCI bridge is referred to as PCI Express Root Port as you can see in the picture below, it's safe to disable these. (Only the ones you dont use, in this case the A32F which is still enabled is a dedicated sound card being used)
+  
+DO NOT disable PCI standard host CPU bridge
+  
+  
+Some PC’s has PCI in PCI, if you got it, it is safe to disable it :)
+If you want to know what inside of other PCI-to-PCI Bridge
+- Internet driver
+- Your graphics card driver
+- Inside ISA there are some devices that we do not need, but i will show what to disable now)
+
+ISA: What you should disable:
+High Precision Event Timer - a hardware timer that has been developed by Intel and Microsoft, different timers may be used depending on which operating system you have installed on your PC
+- legacy device - refers to a computing device or equipment that is outdated obsolete or no longer in production. This includes all devices that are unsupported or no longer commonly used by most devices and software applications
+- Numeric data processor - Scan your system for out-of-date and missing drivers
+- Programmable interrupt controller - Programmable interrupt controller. In computing, a programmable interrupt controller (PIC) is a device that is used to combine several sources of interrupt onto one or more CPU lines, while allowing priority levels to be assigned to its interrupt outputs
+
+- System timer
+
+Other devices:
+
+Disable this device
+  
+you might have 2 more devices here, disable them too.
+You don’t really need those devices.
+
+System Devices:
+Disable these devices below:
+
+UMbus root bus enumerator
+Remote desktop device redirector bus
+High Precision Event Timer
+NDIS virtual network adapter enumerator
+Microsoft virtual drive enumerator
+USB Input Device
+Composite Bus Enumerator
+Intel Management Engine Interface (if you are in ReviOS, then this device is removed)
+Microsoft System Management BIOS Driver
+Microsoft system management bios driver
+Microsoft Virtual Drive Enumerator
+NVIDIA USB 3.10 eXtensible Host Controller
+NDIS Virtual Network Adapter Enumerator
+High Definition Audio Controller
+Numeric Data Processor
+PCI standard RAM Controlle
+PCI Device (2000 series gpus)
+PCI Devices (unused ones)
+PCI-to-PCI Bridge (disable all unused pci bridges)
+PCI Simple Communications Controller (unused or uninstalled ones)r
+Programmable Interrupt Controller
+SM Bus Controller
+System Timer
+
+
+Check: https://www.nirsoft.net/utils/device_manager_view.html to check accurately what is not being used.
+
+By disable this devices, you SHOULD have better performance and latency.
+
+if you need any help about this guide and device manager, be sure to DM me on Discord: Hydro#0007

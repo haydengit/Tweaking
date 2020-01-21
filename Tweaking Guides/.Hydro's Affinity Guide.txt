@@ -1,0 +1,138 @@
+﻿Hydro's Affinity Guide (29th december update)
+
+
+Hey guys, i love to see the support from you about the previous guide about Device Manager tweaks, so here is a affinities guide :)
+enjoy.
+
+--- Let’s start by: What is affinity ?
+
+
+What is Processor Affinity in Windows 10. Processor Affinity also called CPU pinning, allows the user to assign a process to use only a few cores. Technically you can bind and unbind a process or thread to CPU or CPUs which here can be termed as CPU cores.
+
+--- What does affinity?
+
+Processor affinity, or CPU pinning or cache affinity, enables the binding and unbinding of a process or a thread to a central processing unit (CPU) or a range of CPUs, so that the process or thread will execute only on the designated CPU or CPUs rather than any CPU.
+
+--- this is an example about affinities:
+
+  
+
+After you seen this image, you really want to fix it.
+- So here is how: 
+
+
+Here is a program called “Interrupt Affinity Policy Tool”
+with this program we can set affinity to every cpu in our system.
+Click Here To Download
+
+after you download the file open it with Winrar or 7Zip.
+
+
+Click Next
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click “Agree” and Next
+  
+
+Don’t change folder and click Next
+  
+  
+
+Click Close and you done :)
+
+
+Now go to the installation folder and run “intPolicy_x64.exe”
+
+if you have x32 bits then use“intPolicy_x86.exe”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It looks like this
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- setting affinity:
+
+  
+  
+
+(Updated) i recommend to test all your cores are choose what the best for you.
+
+
+example:
+if you set your graphics card on CPU 3, then set PCI to PCI bridges CPU 3
+
+USB drivers:
+
+search for your usb driver name and click on set mask
+
+  
+
+(Updated) set your USB to cpu that you think it’s the best for you!
+
+  
+
+then click ok and you done!
+
+Please DON’T set nothing on CPU 0, if you want to know why, go to the first image in the first page.
+
+results:
+
+Before:
+  
+
+After:
+  
+
+
+I recommended to set affinity for better latency
+
+Need help ?
+
+DISCORD - Hydro#0007
