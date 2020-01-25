@@ -1,0 +1,21 @@
+Inspectre: https://bit.ly/2NZ26Qp
+
+Interrupt Affinity Policy Tool: https://bit.ly/2uxmBNk
+
+KMS VL ALL: https://github.com/kkkgo/KMS_VL_ALL
+
+Latencymon: https://bit.ly/3aSeKL8
+
+Msi Mode: https://bit.ly/2GprquU
+
+NVCleanstall: https://bit.ly/2veYNhx|
+
+NVSlimmer: https://bit.ly/2RNORTP
+
+Nsudo: https://bit.ly/30REbHU
+
+Visual C++ v56: https://bit.ly/2tU6edR
+
+dxwebsetup (DirectX): https://bit.ly/2TRVvLA
+
+IObit Unlocker: https://bit.ly/37sCH9x
