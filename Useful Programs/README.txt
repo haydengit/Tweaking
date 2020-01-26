@@ -1,3 +1,5 @@
+Links of official websites of Files above:
+
 Inspectre: https://bit.ly/2NZ26Qp
 
 Interrupt Affinity Policy Tool: https://bit.ly/2uxmBNk
@@ -19,3 +21,5 @@ Visual C++ v56: https://bit.ly/2tU6edR
 dxwebsetup (DirectX): https://bit.ly/2TRVvLA
 
 Unlocker: https://bit.ly/2uwlYnm
+
+__________________________________________________________________________________________________________________________________
