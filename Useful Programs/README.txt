@@ -24,8 +24,3 @@ dxwebsetup (DirectX): https://bit.ly/2TRVvLA
 Unlocker: https://bit.ly/2uwlYnm
 
 __________________________________________________________________________________________________________________________________
-
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
