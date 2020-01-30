@@ -23,4 +23,6 @@ dxwebsetup (DirectX): https://bit.ly/2TRVvLA
 
 Unlocker: https://bit.ly/2uwlYnm
 
+OpenShell: https://bit.ly/393S2ht
+
 ==================================================================================================================================
