@@ -1,30 +1,31 @@
 ## Links of official websites of Files above:
 
 
-Inspectre: https://bit.ly/2NZ26Qp
 
-Interrupt Affinity Policy Tool: https://bit.ly/2uxmBNk
+[Inspectre](https://bit.ly/2NZ26Qp)
 
-KMS VL ALL: https://github.com/kkkgo/KMS_VL_ALL
+[Interrupt Affinity Policy Tool](https://bit.ly/2uxmBNk)
 
-Latencymon: https://bit.ly/3aSeKL8
+[KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL)
 
-Msi Mode: https://bit.ly/2GprquU
+[Latencymon](https://bit.ly/3aSeKL8)
 
-NVCleanstall: https://bit.ly/2veYNhx|
+[Msi Mode](https://bit.ly/2GprquU)
 
-NVSlimmer: https://bit.ly/2RNORTP
+[NVCleanstall](https://bit.ly/2veYNhx|)
 
-Nsudo: https://bit.ly/30REbHU
+[NVSlimmer](https://bit.ly/2RNORTP)
 
-Visual C++ v56: https://bit.ly/2tU6edR
+[Nsudo](https://bit.ly/30REbHU)
 
-dxwebsetup (DirectX): https://bit.ly/2TRVvLA
+[Visual C++ v56](https://bit.ly/2tU6edR)
 
-Unlocker: https://bit.ly/2uwlYnm
+[dxwebsetup (DirectX)](https://bit.ly/2TRVvLA)
 
-OpenShell: https://bit.ly/393S2ht
+[Unlocker](https://bit.ly/2uwlYnm)
 
-Steam Cleaner: https://bit.ly/2OCBoh6
+[OpenShell](https://bit.ly/393S2ht)
 
-ThrottleStop :https://bit.ly/2wjU3b8
+[Steam Cleaner](https://bit.ly/2OCBoh6)
+
+[ThrottleStop](https://bit.ly/2wjU3b8)
