@@ -18,12 +18,12 @@ Thank you
 - Hydro         Discord Hydro#7777
 - KGCT
 - Zoyata 
-
+- kiLL g0d
 
 For the support,effort and dedication.
 You are amazing and you know that!
 
 
-[Revision Team Discord](https://discord.gg/962y4pU)
+- [Revision Team Discord](https://discord.gg/962y4pU)
 
-[UnlimitedOS Discord](https://discord.gg/yKkJhE4)
+- [UnlimitedOS Discord](https://discord.gg/yKkJhE4)
