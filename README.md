@@ -18,7 +18,7 @@ Thank you
 - Hydro         Discord Hydro#7777
 - KGCT
 - Zoyata 
-- kiLL g0d
+- spacegodmurder
 
 For the support,effort and dedication.
 You are amazing and you know that!
