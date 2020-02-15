@@ -1,6 +1,6 @@
 Links of official websites of Files above:
 
-[Inspectre](https://bit.ly/2NZ26Qp)
+
 Inspectre: https://bit.ly/2NZ26Qp
 
 Interrupt Affinity Policy Tool: https://bit.ly/2uxmBNk
