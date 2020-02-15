@@ -27,4 +27,4 @@
 
 - [Steam Cleaner](https://bit.ly/2OCBoh6)
 
-- [ThrottleStop](https://bit.ly/2wjU3b8)
+- [ThrottleStop](https://www.softpedia.com/get/System/Benchmarks/ThrottleStop.shtml)
