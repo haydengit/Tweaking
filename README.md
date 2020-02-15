@@ -10,7 +10,7 @@
 FOR SUPPORT ADD ME ON DISCORD: SuperStrikE#2190
 
 
-## CREDITS:
+## CREDITS  :+1: :
 
 Thank you 
 - XanderBaatz
