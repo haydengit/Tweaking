@@ -8,9 +8,9 @@
 
 - Hydro
 - Revision Team
--n1kobg
--St1cky
--KGCT
--Bunny
--PanosXidis
+- n1kobg
+- St1cky
+- KGCT
+- Bunny
+- PanosXidis
 
