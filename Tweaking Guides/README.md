@@ -2,6 +2,7 @@
  ### If you want to see his' guides library and the guides' updates, here is his guides library: 
 
 - [All Hydro's Tweak Guides](https://drive.google.com/drive/folders/10K3ptMD8h2Bd_NELYGQcvqGCreEb12m6)
+[Revision BIOS Tweak Guide](https://bit.ly/37wvMwv)
 
 ## All credits to:
 
