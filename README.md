@@ -1,5 +1,5 @@
 # DISCLAIMER:
-
+### The GitHub Is mainly for Windows 10, before running anything make a research to see if it compatible with other OS'es
 - This GitHub is not tech support.
 - Use Google before asking questions.
 - Read the scripts before using them to find out what you are doing.
