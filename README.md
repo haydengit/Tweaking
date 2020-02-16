@@ -1,11 +1,10 @@
 # DISCLAIMER:
 
-
--> This GitHub is not tech support.
--> Use Google before asking questions.
--> Read the scripts before using them to find out what you are doing.
--> If you're noob, consider informing yourself properly before you further proceed.
--> No one here is responsible if you break your PC.
+- This GitHub is not tech support.
+- Use Google before asking questions.
+- Read the scripts before using them to find out what you are doing.
+- If you're noob, consider informing yourself properly before you further proceed.
+- No one here is responsible if you break your PC.
 
 FOR SUPPORT ADD ME ON DISCORD: SuperStrikE#2190
 
