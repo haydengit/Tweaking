@@ -18,7 +18,7 @@
 - [Nsudo](https://bit.ly/30REbHU)
 
 - [Visual C++ v56](https://bit.ly/2tU6edR)
-   - [Another Alternative](https://github.com/abbodi1406/vcredist)
+   - [Another Alternative for Visual C++ v56](https://github.com/abbodi1406/vcredist)
 - [dxwebsetup (DirectX)](https://bit.ly/2TRVvLA)
 
 - [Unlocker](https://bit.ly/2uwlYnm)
