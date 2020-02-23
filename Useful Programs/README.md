@@ -31,4 +31,4 @@
 
 - [serviwin](https://www.majorgeeks.com/mg/getmirror/serviwin,1.html)
 
-- [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
+- [Mem Reduct](https://www.majorgeeks.com/files/details/mem_reduct.html)
