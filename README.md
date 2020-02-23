@@ -11,10 +11,10 @@
 
 ## CREDITS  :+1: :
 
-Thank you 
+Thank you: 
 - XanderBaatz
 - Dreammjow
-- Hydro         Discord Hydro#7777
+- Hydro
 - KGCT
 - Zoyata 
 - spacegodmurder
