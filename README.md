@@ -18,6 +18,11 @@ Thank you
 - KGCT
 - Zoyata 
 - spacegodmurder
+- Revision Team
+- n1kobg
+- St1cky
+- Bunny
+- PanosXidis
 
 For the support,effort and dedication.
 You are amazing and you know that!
