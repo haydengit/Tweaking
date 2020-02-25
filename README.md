@@ -1,4 +1,18 @@
-# DISCLAIMER:
+#About ME and this project!
+-> My objective with this GitHub Page is to provide you the best tools/programs/tweaks/scripts among others to help you in your tweaking session.
+
+-> All people that helped me are properly credited.
+
+-> If you need any help contact me via Discord: SuperStrikE#2190
+
+My socials:
+ [Twitter](https://twitter.com/superstrikexd)
+
+
+
+
+
+## DISCLAIMER:
 ### The GitHub Is mainly for Windows 10, before running anything make a research to see if it compatible with other OS'es
 - This GitHub is not tech support.
 - Use Google before asking questions.
