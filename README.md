@@ -5,8 +5,8 @@
 
 - [x] If you need any help contact me via Discord: SuperStrikE#2190
 
-- [x] My socials:
-  - [Twitter](https://twitter.com/superstrikexd)
+- [x] **My socials:
+  -  [Twitter](https://twitter.com/superstrikexd)
 
 
 
