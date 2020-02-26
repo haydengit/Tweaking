@@ -1,12 +1,12 @@
 # About ME and this project!
--> My objective with this GitHub Page is to provide you the best tools/programs/tweaks/scripts among others to help you in your tweaking session.
+- [x] My objective with this GitHub Page is to provide you the best tools/programs/tweaks/scripts among others to help you in your tweaking session.
 
-[x] All people that helped me are properly credited.
+- [x] All people that helped me are properly credited.
 
-[x] If you need any help contact me via Discord: SuperStrikE#2190
+- [x] If you need any help contact me via Discord: SuperStrikE#2190
 
-[x] My socials:
- - [Twitter](https://twitter.com/superstrikexd)
+- [x] My socials:
+  - [Twitter](https://twitter.com/superstrikexd)
 
 
 
