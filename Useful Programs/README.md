@@ -3,7 +3,7 @@
 
 - [Inspectre](https://bit.ly/2NZ26Qp)
 
-- [Interrupt Affinity Policy Tool](https://bit.ly/2uxmBNk)
+- [Interrupt Affinity Policy Tool](http://download.microsoft.com/download/9/2/0/9200a84d-6c21-4226-9922-57ef1dae939e/Interrupt_Affinity_Policy_Tool.msi)
 
 - [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL)
 
