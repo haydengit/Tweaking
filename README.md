@@ -46,6 +46,6 @@ You are amazing and you know that!
 
 - [Revision Team Discord](https://discord.gg/962y4pU)
 
-- [Project Evolve Discord](https://discord.gg/yKkJhE4)
+- [Project Evolve Discord](https://discord.gg/e3H7nNq)
 
 - [n1kobg (blogspot)](https://discord.gg/uz3Yp4y)
