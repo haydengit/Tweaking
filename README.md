@@ -37,7 +37,6 @@ Thank you:
 - St1cky
 - Bunny
 - PanosXidis
-- Milkbrain
 - Calypto
 
 For the support,effort and dedication.
