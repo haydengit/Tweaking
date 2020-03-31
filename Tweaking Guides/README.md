@@ -1,5 +1,5 @@
 # Use WORDPAD or Notepad++ to see the guides, for an optimal experience with images to help you.
- ### If you want to see his' guides library and the guides' updates, here is his guides library: 
+
 
 - [Revision BIOS Tweak Guide](https://bit.ly/37wvMwv)
 
