@@ -3,7 +3,7 @@
 
 - [x] All people that helped me are properly credited.
 
-- [x] If you need any help contact me via Discord: SuperStrikE#2190
+- [x] If you need any help contact me via Discord: HoVeRzzz#2190
 
 - [x] **My socials:**
   -  [Twitter](https://twitter.com/superstrikexd)
@@ -20,7 +20,7 @@
 - If you're noob, consider informing yourself properly before you further proceed.
 - No one here is responsible if you break your PC.
 
-### FOR SUPPORT ADD ME ON DISCORD: SuperStrikE#2190 
+### FOR SUPPORT ADD ME ON DISCORD: HoVeRzzz#2190
 
 
 ## CREDITS  :+1: :
