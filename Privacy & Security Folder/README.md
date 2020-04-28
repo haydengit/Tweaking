@@ -36,6 +36,6 @@ used by apps, as the daily commute and routine information can be enough
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
 
-**FIREWALL 
+**FIREWALL** 
 - [Simplewall](https://github.com/henrypp/simplewall) for Windows
 - [AFWall+](https://github.com/ukanth/afwall) Used in android, and needs ROOT to work.
