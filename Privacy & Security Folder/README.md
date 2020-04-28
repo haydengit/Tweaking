@@ -1,6 +1,6 @@
 ## -> HERE WILL BE POSTED IMPORTANT APPS/TOOLS TO USE TO HAVE MAXIMUM SECURITY AND PRIVACY IN YOUR CYBER SESSION ##
 
-- CyberSecurity: Computer security, cybersecurity or 
+- [Security](https://en.wikipedia.org/wiki/Computer_security): Computer security, cybersecurity or 
 information technology security is the protection of computer systems 
 and networks from the theft of or damage to their hardware, software, or
  electronic data, as well as from the disruption or misdirection of the 
@@ -12,7 +12,7 @@ devices that constitute the "Internet of things". Owing to its
 complexity, both in terms of politics and technology, cybersecurity is 
 also one of the major challenges in the contemporary world.
 
-- Internet privacy: Internet privacy involves the right or
+- [Privacy](https://en.wikipedia.org/wiki/Internet_privacy) : Internet privacy involves the right or
  mandate of personal privacy concerning the storing, repurposing, 
 provision to third parties, and displaying of information pertaining to 
 oneself via the internet. Internet privacy is a subset of data privacy. 
