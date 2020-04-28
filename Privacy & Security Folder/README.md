@@ -29,4 +29,4 @@ used by apps, as the daily commute and routine information can be enough
 
 #### BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS! ####
 
-## SOME RECOMMENDATIONS: ##
+## - SOME RECOMMENDATIONS: ##
