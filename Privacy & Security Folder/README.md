@@ -29,7 +29,7 @@ used by apps, as the daily commute and routine information can be enough
 
 #### BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS! #### 
 
-## - SOME RECOMMENDATIONS: ## Ordered from best to worst (in my opinion)
+## - SOME RECOMMENDATIONS:  Ordered from best to worst (in my opinion)
 
 **BROWSERS**
 - [TOR BROWSER ](https://www.torproject.org/)
