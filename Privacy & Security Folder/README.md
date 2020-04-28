@@ -27,6 +27,11 @@ person typically. Other forms of PII may soon include GPS tracking data
 used by apps, as the daily commute and routine information can be enough
  to identify an individual.
 
-#### BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS! ####
+#### BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS! #### 
 
-## - SOME RECOMMENDATIONS: ##
+## - SOME RECOMMENDATIONS: ## Ordered from best to worst (in my opinion)
+
+**BROWSERS**
+- [TOR BROWSER ](https://www.torproject.org/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
