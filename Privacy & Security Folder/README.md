@@ -28,3 +28,5 @@ used by apps, as the daily commute and routine information can be enough
  to identify an individual.
 
 #### BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS! ####
+
+## SOME RECOMMENDATIONS: ##
