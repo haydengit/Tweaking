@@ -35,6 +35,8 @@ used by apps, as the daily commute and routine information can be enough
 - [TOR BROWSER ](https://www.torproject.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
+- [Iridium ](https://github.com/iridium-browser/iridium-browser)
+- [Brave](https://brave.com/)
 
 **FIREWALL** 
 - [Simplewall](https://github.com/henrypp/simplewall) for Windows
