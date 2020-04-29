@@ -41,3 +41,11 @@ used by apps, as the daily commute and routine information can be enough
 **FIREWALL** 
 - [Simplewall](https://github.com/henrypp/simplewall) for Windows
 - [AFWall+](https://github.com/ukanth/afwall) Used in android, and needs ROOT to work.
+
+**EMAIL**
+- [Tutanota](https://www.tutanota.com/)
+- [ProtonMail](https://www.protonmail.com/)
+
+**SYSTEM CLEANER**
+- [BleachBit](https://www.bleachbit.org/)
+- [Dism ++](https://www.chuyu.me/en/index.html) Doesn't act just like a cleaner. It has a lot of other features, click on the link to know more!
