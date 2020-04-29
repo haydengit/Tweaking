@@ -58,3 +58,9 @@ used by apps, as the daily commute and routine information can be enough
 **PASSWORD MANAGER**
  - [Bitwarden](https://bitwarden.com/)
  - [KeePassDX](https://www.keepassdx.com/) Open source and for android
+
+**YOUTUBE REPLACEMENT**
+ - [Invidious](https://invidio.us/) Watch YouTube Videos Online Without javascript
+ - [FreeTube](https://github.com/FreeTubeApp/FreeTube) Open source option for desktops/laptops 
+ - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe) Lightweight YouTube Option
+ - [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss) Feature Rich YouTube Option
