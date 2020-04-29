@@ -26,6 +26,7 @@ name, as these two factors are unique enough to identify a specific
 person typically. Other forms of PII may soon include GPS tracking data 
 used by apps, as the daily commute and routine information can be enough
  to identify an individual.
+ 
  **BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS!**
 
 
