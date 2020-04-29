@@ -64,3 +64,8 @@ used by apps, as the daily commute and routine information can be enough
  - [FreeTube](https://github.com/FreeTubeApp/FreeTube) Open source option for desktops/laptops 
  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe) Lightweight YouTube Option
  - [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss) Feature Rich YouTube Option
+
+**INSTAGRAM REPLACEMENT**
+ - [Bibliogram](https://bibliogram.art/) Online Instagram that respects you and your privacy!
+ - [Instagrabber](https://f-droid.org/en/packages/awais.instagrabber) Android Instagram that respects your rights.
+
