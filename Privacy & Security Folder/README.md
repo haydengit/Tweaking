@@ -32,28 +32,28 @@ used by apps, as the daily commute and routine information can be enough
 ## - SOME RECOMMENDATIONS:  Ordered from best to worst (in my opinion)
 
 **BROWSERS**
-- [TOR BROWSER ](https://www.torproject.org/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
-- [Iridium ](https://github.com/iridium-browser/iridium-browser)
-- [Brave](https://brave.com/)
+ - [TOR BROWSER ](https://www.torproject.org/)
+ - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+ - [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
+ - [Iridium ](https://github.com/iridium-browser/iridium-browser)
+ - [Brave](https://brave.com/)
 
 **FIREWALL** 
-- [Simplewall](https://github.com/henrypp/simplewall) for Windows
-- [AFWall+](https://github.com/ukanth/afwall) Used in android, and needs ROOT to work.
+ - [Simplewall](https://github.com/henrypp/simplewall) for Windows
+ - [AFWall+](https://github.com/ukanth/afwall) Used in android, and needs ROOT to work.
 
 **EMAIL**
-- [Tutanota](https://www.tutanota.com/)
-- [ProtonMail](https://www.protonmail.com/)
+ - [Tutanota](https://www.tutanota.com/)
+ - [ProtonMail](https://www.protonmail.com/)
 
 **SYSTEM CLEANER**
-- [BleachBit](https://www.bleachbit.org/)
-- [Dism ++](https://www.chuyu.me/en/index.html) Doesn't act just like a cleaner. It has a lot of other features, click on the link to know more!
+ - [BleachBit](https://www.bleachbit.org/)
+ - [Dism ++](https://www.chuyu.me/en/index.html) Doesn't act just like a cleaner. It has a lot of other features, click on the link to know more!
 
 **SEARCH ENGINES**
-- [Searx ](https://www.searx.me/) Most secure and open source!
-- [DuckDuckGo](https://duckduckgo.com/)
+ - [Searx ](https://www.searx.me/) Most secure and open source!
+ - [DuckDuckGo](https://duckduckgo.com/)
 
 **PASSWORD MANAGER**
-- [Bitwarden](https://bitwarden.com/)
-- [KeePassDX](https://www.keepassdx.com/) Open source and for android
+ - [Bitwarden](https://bitwarden.com/)
+ - [KeePassDX](https://www.keepassdx.com/) Open source and for android
