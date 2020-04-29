@@ -1,27 +1,26 @@
 #Some Device Manager tweaks: 
 
-Composite Bus Enumerator
-Generic PnP Monitors
-Generic SuperSpeed USB Hubs (unneeded ones)
-Generic USB Hubs (unneeded ones)
-HID-compliant Consumer Control Devices (ALL)
-HID-compliant System Controllers (unneeded ones [make sure you have a backup mouse or whatever just incase you need to reenable])
-HID-compliant Vendor-Defined Devices (unneeded ones iirc)
-High Precision Event Timer
-Intel Management Engine Interface (If you're not going to use chipset drivers)
-Microsoft GS Wavetable Synth
-Microsoft System Management BIOS Driver
-Microsoft Virtual Drive Enumerator
-NDIS Virtual Network Adapter Enumerator
-Numeric Data Processor
-PCI Device (Unneeded ones)
-PCI Devices (Unneeded ones)
-PCI Simple Communications Controller
-PCI standard RAM Controller
-PCI-to-PCI Bridge (the unneeded ones)
-Programmable Interrupt Controller
-Remote Desktop Device Redirector Bus
-SM Bus Controller (the unneeded ones)
-System Timer
-UMBus Root Bus Enumerator
-USB Input Device (the unneeded ones)
+- Composite Bus Enumerator
+- Generic PnP Monitors
+- Generic SuperSpeed USB Hubs (unneeded ones)
+- Generic USB Hubs (unneeded ones)
+- HID-compliant Consumer Control Devices (ALL)
+- HID-compliant System Controllers (unneeded ones [make sure you have a backup mouse or whatever just incase you need to reenable])
+- HID-compliant Vendor-Defined Devices (unneeded ones iirc)
+- High Precision Event Timer
+- Intel Management Engine Interface (If you're not going to use chipset drivers)
+- Microsoft GS Wavetable Synth
+- Microsoft System Management BIOS Driver
+- Microsoft Virtual Drive Enumerator
+- NDIS Virtual Network Adapter Enumerator
+- Numeric Data Processor
+- PCI Device (Unneeded ones)
+- PCI Simple Communications Controller
+- PCI standard RAM Controller
+- PCI-to-PCI Bridge (the unneeded ones)
+- Programmable Interrupt Controller
+- Remote Desktop Device Redirector Bus
+- SM Bus Controller (the unneeded ones)
+- System Timer
+- UMBus Root Bus Enumerator
+- USB Input Device (the unneeded ones)
