@@ -69,3 +69,6 @@ used by apps, as the daily commute and routine information can be enough
  - [Bibliogram](https://bibliogram.art/) Online Instagram that respects you and your privacy!
  - [Instagrabber](https://f-droid.org/en/packages/awais.instagrabber) Android Instagram that respects your rights.
 
+**FACEBOOK REPLACEMENT**
+ - [Frost for Facebook](https://f-droid.org/en/packages/com.pitchedapps.frost) Feature rich and open source
+ - [SlimSocial](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook) Lightweight and open source
