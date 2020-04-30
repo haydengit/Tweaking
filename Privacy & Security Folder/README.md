@@ -29,6 +29,16 @@ used by apps, as the daily commute and routine information can be enough
  
  **BOTH OF THEM ARE RIGHTS SO WE HAVE TO PROTECT OUR RIGHTS!**
 
+- Why we should use open source software over closed source:
+[Open-source software](https://en.wikipedia.org/wiki/Open-source_software): Open-source software is a type of computer software in which source code is released under a license in 
+**which the copyright holder grants users the rights to study, change, and
+ distribute the software to anyone and for any purpose.** Open-source 
+software may be developed in a collaborative public manner. Open-source 
+software is a prominent example of open collaboration. Open-source 
+software development can bring in diverse perspectives beyond those of a
+ single company.
+
+
 
 ## - SOME RECOMMENDATIONS:  Ordered from best to worst (in my opinion)
 
