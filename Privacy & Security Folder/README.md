@@ -72,3 +72,6 @@ used by apps, as the daily commute and routine information can be enough
 **FACEBOOK REPLACEMENT**
  - [Frost for Facebook](https://f-droid.org/en/packages/com.pitchedapps.frost) Feature rich and open source
  - [SlimSocial](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook) Lightweight and open source
+
+**WINDOWS DEFAULT MEDIA PLAYER**
+ - [Media Player Classic](https://mpc-hc.org/) Lightweight and open source, good quality, reliable
