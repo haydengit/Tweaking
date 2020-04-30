@@ -38,6 +38,7 @@ Thank you:
 - St1cky
 - Bunny
 - PanosXidis
+- AKLVS
 - Calypto
 
 For the support,effort and dedication.
