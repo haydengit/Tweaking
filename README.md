@@ -51,4 +51,4 @@ You are amazing and you know that!
 
 - [n1kobg (blogspot)](https://discord.gg/uz3Yp4y)
 
-- [Bunny's tweaking website](https://sites.google.com/view/winshit/home)
+- [Bunny's Website](https://sites.google.com/view/winshit/home)
