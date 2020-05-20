@@ -32,6 +32,7 @@ Thank you:
 - Melody
 - KGCT
 - Zoyata 
+- Cyanide
 - spacegodmurder
 - Revision Team
 - n1kobg
