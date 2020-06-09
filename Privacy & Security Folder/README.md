@@ -46,6 +46,10 @@ software development can bring in diverse perspectives beyond those of a
 
 ## - SOME RECOMMENDATIONS:  Ordered from best to worst (in my opinion)
 
+
+**HOST FILES**
+ - [someonewhocares](https://someonewhocares.org/hosts/)
+
 **BROWSERS**
  - [TOR BROWSER ](https://www.torproject.org/)
  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
