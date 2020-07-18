@@ -5,6 +5,8 @@
 
 - [x] If you need any help contact me via Discord: HoVeRzzz#2190
 
+- [MY TWEAKING SERVER PROJECT](https://discord.gg/3cjuczW)
+
 - [x] **My socials:**
   -  [Twitter](https://twitter.com/superstrikexd)
 
