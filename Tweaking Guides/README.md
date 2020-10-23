@@ -7,6 +7,7 @@
 ## All credits to:
 
 - Calypto
+- Adam
 - Hydro
 - Revision Team
 - n1kobg
